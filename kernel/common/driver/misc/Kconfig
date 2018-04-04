@@ -1,0 +1,5 @@
+config TEST_DEVICE
+    bool "Test Driver"
+    default y
+	help
+	  Test Driver help
